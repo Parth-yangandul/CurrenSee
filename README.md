@@ -22,6 +22,11 @@ The dataset contains these four input characteristics:
 
 The target value is simply 0 for **real** banknotes and 1 for **fake** banknotes.
 
+In this repository you have:
+- The fake currency identifier model.
+- The python file of the project.
+- The datset used for the project. 
+
 
 ## That's all
 That's all about this project, folks!
